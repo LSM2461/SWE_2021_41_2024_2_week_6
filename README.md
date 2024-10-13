@@ -51,4 +51,30 @@ def isHappy(n):
 >> + If the sum value reaches *1*, *n* is **a happy number**
 
 ## Week 5 Assignment
+###
+<pre>
+  <code>
+    docker exec ossp-container cat /etc/os-release
+  </code>
+</pre>
 
+###
+<pre>
+  <code>
+    docker exec ossp-container git --version
+  </code>
+</pre>
+
+###
+<pre>
+  <code>
+    docker exec ossp-container python3 --version
+  </code>
+</pre>
+
+###
+<pre>
+  <code>
+    docker inspect --format="{{ .HostConfig.Binds }}" ossp-container
+  </code>
+</pre>
