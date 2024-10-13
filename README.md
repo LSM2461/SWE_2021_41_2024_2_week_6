@@ -58,6 +58,22 @@ def isHappy(n):
   </code>
 </pre>
 
+The result will show the **information about the operating system running inside the container**. \
+**My output: \
+PRETTY_NAME="Ubuntu 24.04.1 LTS" \
+NAME="Ubuntu" \
+VERSION_ID="24.04" \
+VERSION="24.04.1 LTS (Noble Numbat)" \
+VERSION_CODENAME=noble \
+ID=ubuntu \
+ID_LIKE=debian \
+HOME_URL="https://www.ubuntu.com/" \
+SUPPORT_URL="https://help.ubuntu.com/" \
+BUG_REPORT_URL="https://bugs.launchpad.net/ubuntu/" \
+PRIVACY_POLICY_URL="https://www.ubuntu.com/legal/terms-and-policies/privacy-policy" \
+UBUNTU_CODENAME=noble \
+LOGO=ubuntu-logo**
+
 ###
 <pre>
   <code>
@@ -65,8 +81,8 @@ def isHappy(n):
   </code>
 </pre>
 
-The result will show the Git version installed in the container. \
-My output: git version 2.43.0
+The result will show the **Git version** installed in the container. \
+**My output: git version 2.43.0**
 
 ###
 <pre>
@@ -75,8 +91,8 @@ My output: git version 2.43.0
   </code>
 </pre>
 
-The result will show the Python version installed in the container. \
-My output: Python 3.12.3
+The result will show the **Python version** installed in the container. \
+**My output: Python 3.12.3**
 
 ###
 <pre>
