@@ -41,8 +41,8 @@ def isHappy(n):
 >> To determine whether the given number is a **"Happy Number"**
 ###
 > Variables used in the code
->> 1. **loop**: a list for tracking the numbers generated during the process \
->> 2. **sum**: cumulative value added by the sqaures of the next digit of the numbers \
+>> 1. **loop**: a list for tracking the numbers generated during the process
+>> 2. **sum**: cumulative value added by the sqaures of the next digit of the numbers
 >> 3. **s1**: string value of the given number *n*
 >> 4. **s2**: string value of the generated new nubmers during the process
 ###
