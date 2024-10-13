@@ -4,7 +4,7 @@
 >  Link of week 4 repository
 >> https://github.com/LSM2461/SWE_2021_41_2024_2_week_4
 ### 
-'''python
+```python
 def isHappy(n):
   loop = []
   sum = 0
@@ -25,6 +25,6 @@ def isHappy(n):
         
         for i in range(len(s2)):
           sum += int(s2[i]) ** 2
-'''
+```
 ### 
 
