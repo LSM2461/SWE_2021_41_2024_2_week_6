@@ -100,3 +100,6 @@ The result will show the **Python version** installed in the container. \
     docker inspect --format="{{ .HostConfig.Binds }}" ossp-container
   </code>
 </pre>
+
+The result will show the **directory path from the host that is mounted inside the container**
+**My output: [/Users/임수민/Desktop/ossp_host_dir:/mnt/ossp_container_dir]**
