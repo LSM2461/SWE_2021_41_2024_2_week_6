@@ -65,12 +65,18 @@ def isHappy(n):
   </code>
 </pre>
 
+The result will show the Git version installed in the container. \
+My output: git version 2.43.0
+
 ###
 <pre>
   <code>
     docker exec ossp-container python3 --version
   </code>
 </pre>
+
+The result will show the Python version installed in the container. \
+My output: Python 3.12.3
 
 ###
 <pre>
