@@ -4,8 +4,6 @@
 >  Link of week 4 repository
 >> https://github.com/LSM2461/SWE_2021_41_2024_2_week_4
 ### 
-</pre>
-
 '''python
 def isHappy(n):
   loop = []
