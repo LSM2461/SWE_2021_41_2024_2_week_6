@@ -59,6 +59,7 @@ def isHappy(n):
 </pre>
 
 The result will show the **information about the operating system running inside the container**. \
+\
 **My output: \
 PRETTY_NAME="Ubuntu 24.04.1 LTS" \
 NAME="Ubuntu" \
@@ -82,6 +83,7 @@ LOGO=ubuntu-logo**
 </pre>
 
 The result will show the **Git version** installed in the container. \
+\
 **My output: git version 2.43.0**
 
 ###
@@ -92,6 +94,7 @@ The result will show the **Git version** installed in the container. \
 </pre>
 
 The result will show the **Python version** installed in the container. \
+\
 **My output: Python 3.12.3**
 
 ###
@@ -101,5 +104,6 @@ The result will show the **Python version** installed in the container. \
   </code>
 </pre>
 
-The result will show the **directory path from the host that is mounted inside the container**
+The result will show the **directory path from the host that is mounted inside the container** \
+\
 **My output: [/Users/임수민/Desktop/ossp_host_dir:/mnt/ossp_container_dir]**
